@@ -1,0 +1,17 @@
+
+📊 Classification Report:
+                  precision    recall  f1-score   support
+
+ Alert-Attentive       0.67      0.62      0.65       136
+         Fatigue       0.99      0.99      0.99       911
+           Phone       0.62      0.70      0.66       171
+   Yawning (new)       0.83      0.88      0.85        43
+   head gestures       0.00      0.00      0.00        13
+other_activities       0.67      0.61      0.64       156
+         turning       0.62      0.67      0.64        66
+
+        accuracy                           0.86      1496
+       macro avg       0.63      0.64      0.63      1496
+    weighted avg       0.86      0.86      0.86      1496
+
+✅ Accuracy: 0.858957219251337
